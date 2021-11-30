@@ -1,0 +1,174 @@
+.item {
+    width: 1900px;
+    height: 600px;
+    background-color: rgb(45, 194, 214);
+    margin-top: 140px;
+    box-sizing: border-box;
+    
+}
+
+p {
+    margin: 0px;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    font-size: 40px;
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.p3 {
+    color: black;
+    font-size: 25px;
+    position: absolute;
+    margin-left: 835px;
+    margin-top: 40px;  
+}
+
+.p4 {
+    color: black;
+    position: absolute;
+    margin-left: 785px;
+    margin-top: 70px;
+    font-size: 18 px;
+}
+
+.name {
+    border: solid 1px white;
+    width: 293px;
+    height: 43px;
+    position: absolute;
+    bottom: 550px;
+    left: 360px;
+    
+}
+
+.email {
+    border: solid 1px white;
+    width: 293px;
+    height: 43px;
+    position: absolute;
+    bottom: 550px;
+    left: 670px;
+    display: block;
+}
+
+.phone {
+    border: solid 1px white;
+    width: 293px;
+    height: 43px;
+    position: absolute;
+    bottom: 550px;
+    left: 980px;
+}
+
+.send {
+    color: white;
+    background-color: orange;
+    border: solid 1px orange;
+    width: 235px;
+    height: 47px;
+    position: absolute;
+    bottom: 550px;
+    left: 1290px;
+}
+
+.home {
+    color: white;
+    background-color: orange;
+    border: solid 1px orange;
+    width: 75px;
+    height: 32px;
+    position: absolute;
+    bottom: 886px;
+    left: 700px;
+
+}
+
+.service {
+    color: gray;
+    background-color: white;
+    border: solid 1px white;
+    width: 75px;
+    height: 32px;
+    position: absolute;
+    bottom: 886px;
+    left: 795px;
+   
+}
+
+.aboutus {
+    color: gray;
+    background-color: white;
+    border: solid 1px white;
+    width: 90px;
+    height: 32px;
+    position: absolute;
+    bottom: 886px;
+    left: 885px;
+}
+
+.pricingtable {
+    color: gray;
+    background-color: white;
+    border: solid 1px white;
+    width: 115px;
+    height: 32px;
+    position: absolute;
+    bottom: 886px;
+    left: 990px;
+}
+
+.howitwork {
+    color: gray;
+    background-color: white;
+    border: solid 1px white;
+    width: 115px;
+    height: 32px;
+    position: absolute;
+    bottom: 886px;
+    left: 1120px;
+}
+
+.happyclients {
+    color: gray;
+    background-color: white;
+    border: solid 1px white;
+    width: 125px;
+    height: 32px;
+    position: absolute;
+    bottom: 886px;
+    left: 1250px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    background-color: white;
+    border: solid 1px white;
+    width: 150px;
+    height: 32px;
+    position: relative;
+    bottom: 710px;
+    left: 1389px;
+    text-decoration: none;
+}
+
+img {
+    height: 69px;
+    position: relative;
+    bottom: 748px;
+    left: 320px;
+    background-image: white;
+    
+}
+
